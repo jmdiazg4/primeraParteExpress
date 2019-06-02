@@ -1,0 +1,4 @@
+El estudiante JUAN
+ con cedula 1059
+ se ha matriculado satisfactoriamente en el curso Programacion
+ de codigo [pr] duracion 72 horas y valor 200000.

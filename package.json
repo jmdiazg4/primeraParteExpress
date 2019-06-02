@@ -1,0 +1,15 @@
+{
+  "name": "primeraentregajm",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "DatosCurso.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Manuel jmdiazg@unal.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  }
+}
